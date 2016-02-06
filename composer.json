@@ -1,0 +1,19 @@
+{
+    "name": "lukesUbuntu/NSMinecraftPanel",
+    "description": "",
+    "keywords": ["minecraft"],
+    "license": "MIT",
+    "require": {
+        "php": ">= 5.3.0",
+        "slim/slim": "2.*",
+        "cartalyst/sentry" : "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "" : [
+                "public/"
+            ]
+        }
+    },
+    "minimum-stability": "stable"
+}
