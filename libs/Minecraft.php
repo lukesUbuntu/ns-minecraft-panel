@@ -18,8 +18,6 @@ class Minecraft
      * @var string
      */
     var $serverName = '';
-
-    public function Minecraft(Settings $settings){
-
-    }
+    var $settings = '';
+    public function Minecraft(Settings $settings){}
 }
