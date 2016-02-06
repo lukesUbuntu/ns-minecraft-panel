@@ -1,0 +1,2 @@
+# NSMinecraftPanel
+MineCraft Control Panel
