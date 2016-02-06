@@ -6,10 +6,20 @@
  * Time: 12:04 AM
  */
 
-namespace Minecraft;
+/**
+ * @Mincraft Library to execute commands to shell this is the only place shell exec will run from
+ */
+namespace Library;
 
 
 class Minecraft
 {
+    /**
+     * @var string
+     */
+    var $serverName = '';
 
+    public function Minecraft(Settings $settings){
+
+    }
 }
