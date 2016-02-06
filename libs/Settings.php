@@ -19,8 +19,8 @@ class Settings
     /**
      * @param string $serverIP
      */
-    public function Settings($serverIP = '127.0.0.1'){
-        $this->$serverIP = $serverIP;
+    public function Settings(){
+        file
     }
 
     public function startCMD(){}
