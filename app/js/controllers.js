@@ -1,7 +1,11 @@
+"use strict";
 
+var App = angular.module("App.controllers", [])
 
-  "use strict";
+    .controller('homepage', function ($scope) {
+        console.log("homepage controller loaded");
 
-  var App = angular.module("App.controllers", []);
+    });
+
 
 
