@@ -1,6 +1,8 @@
 # NS Minecraft Panel
 
-Just started project as to many **** panels
+Just started project as to many **** panels.
+Will provide basic install guide on first release, will require composer 
+
 
 # Features:
 
@@ -24,3 +26,5 @@ Server Backup and Restoration<br>
 Fantastic REST API<br>
 API modules available (WHMCS, blesta)<br>
 Advanced File Manager & FTP<br>
+
+### Aiming to support Linux/Windows servers
