@@ -28,4 +28,3 @@ API modules available (WHMCS, blesta)<br>
 Advanced File Manager & FTP<br>
 
 ### Aiming to support Linux/Windows servers
-
